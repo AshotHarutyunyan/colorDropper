@@ -1,6 +1,6 @@
 # Color Dropper
 
-This project gives you ability to drop color from canvas and use it also there is preview part which is make drop mor user friendly
+This project gives you the ability to drop color from Canvas and use it also there is a preview part which is make drop more user-friendly
 
 ## How To Run
 
